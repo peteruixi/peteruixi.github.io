@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: cv
 permalink: /Curriculum_Vitae/
 ---
-<embed src="/assets/Ruixi Li_CV.pdf"  width="800" height="1000"/>
+<embed src="/assets/Ruixi_Li cv.pdf"  width="800" height="1000"/>
